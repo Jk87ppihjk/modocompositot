@@ -1,7 +1,12 @@
 {
-    "LICENCA-123-456": {
-        "validade": "2026-04-20",
-        "usuario": "jsbeats",
-        "hwid": "ABCD-1234"
-    }
+  "LICENCA-001-ABC": {
+    "validade": "2026-05-01",
+    "usuario": "jsbeats",
+    "hwid": "A1B2C3D4E5F6"
+  },
+  "LICENCA-002-DEF": {
+    "validade": "2026-06-01",
+    "usuario": "outro_user",
+    "hwid": "Z9Y8X7W6V5U4"
+  }
 }
