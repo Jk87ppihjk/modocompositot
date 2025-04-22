@@ -1,12 +1,7 @@
 {
-    "CHAVE_ABC123": {
-        "cliente": "João Silva",
-        "validade": "2024-12-31",
-        "plano": "premium"
-    },
-    "CHAVE_EXEMPLO_123": {
-        "cliente": "Exemplo Teste",
-        "validade": "2023-12-31",
-        "plano": "basico"
-    }
+    "ABCDEF10": {},
+    "GHIJKL05": {},
+    "MNOPQR15": {},
+    "STUVWX03": {},
+    "YZABCD07": {}
 }
