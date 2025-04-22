@@ -1,7 +1,12 @@
 {
-    "licencas_validas": [
-        "ABDC13",
-        "456DEF",
-        "789GHI"
-    ]
+    "CHAVE_ABC123": {
+        "cliente": "João Silva",
+        "validade": "2024-12-31",
+        "plano": "premium"
+    },
+    "CHAVE_EXEMPLO_123": {
+        "cliente": "Exemplo Teste",
+        "validade": "2023-12-31",
+        "plano": "basico"
+    }
 }
